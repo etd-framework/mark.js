@@ -1,0 +1,28 @@
+{
+  "name": "etdsolutions/mark.js",
+  "description": "Shim repository for mark.js",
+  "homepage": "https://markjs.io",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julian Motz",
+      "homepage": "https://github.com/julmot"
+    }
+  ],
+  "suggest": {
+    "etdsolutions/jquery": "For using jquery version"
+  },
+  "keywords": [
+    "mark.js",
+    "markjs",
+    "mark",
+    "jquery.mark",
+    "jmHighlight",
+    "highlight",
+    "search",
+    "jquery",
+    "javascript",
+    "text",
+    "keyword"
+  ]
+}
